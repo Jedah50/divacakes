@@ -1,0 +1,265 @@
+header {
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content:space-between;
+    box-sizing: border-box;
+font-size:small;}
+
+.logo {
+    margin-left: 100px;
+    margin-top: 10px;
+}
+
+.time {
+    float:right;
+    padding-right: 160px;
+margin-top: 35px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+.menu {text-decoration: none;
+    list-style-type: none;
+    display:flex;}
+
+
+.menulist {margin-left: 30px;
+text-decoration:none;
+color: rgb(64, 71, 78);
+font-weight: bolder;
+padding-left: 40px;}
+
+.centerimg {background-color: teal;
+            width:100%;
+            height: 450px;
+            display: flex;}
+
+a:hover {color:red;}
+
+    .midleth6 {color: orangered;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: bolder;}
+    
+.midletp {color: slategray;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    .midletcontainer{
+        display: flex;
+        background-color: ghostwhite;
+        height: 200px;
+        padding: 20px;}
+
+    .midlet1 {
+        display: flex;
+        padding: 40px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+    .midlet2 {
+        display: flex;
+        padding: 40px;}
+
+    .midlet3 {
+        display: flex;
+        padding: 40px;}
+
+   .midletimg {margin: 20px;
+height:50px;}
+
+
+.gallerycontainer {background-color: whitesmoke;
+                    width: 100%;
+                height: 950px;
+                box-sizing: border-box;
+                padding: 10px;}
+
+.galleryheading {text-align: center;
+                    margin-top: 30px;
+                padding: 10px;}
+
+.gallery {background-color: transparent;
+        margin: 15px;
+        float: left;
+        width: 260px;
+        height: 350px;
+        padding: 0px;}
+
+.imagelist:hover {opacity: 50%;}
+
+.gallerycontainer2 {padding-left: 90px;}
+
+.desc {background-color: white;
+        width:100%;
+        height:100px;
+    text-align: center;
+padding: 15px;}
+
+    .imagelist { width: 100%;
+             height: 250px;
+             margin: 0px;
+             padding: 0px;}
+
+.desch6 {color: green;
+text-decoration: none;}
+.descp {color: red;
+font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+
+.middlebelt {width: 100%;
+            height: 150px;
+            background-color: turquoise;
+            display: flex;
+            justify-content: space-around;
+        background-image: url(middlebelt.jpg);}
+
+.middlebelth4 {margin-top: 60px;
+                font-family: cursive;
+            color: whitesmoke;}
+
+.middlebeltbutton {margin-top: 60px;
+                    }
+                    
+
+.middlebeltbutton1 {width:150px;
+                    height:40px;
+                    color:white;
+                    background-color: rgb(27, 25, 25);}
+                    
+.middlebeltbutton1:hover {background: transparent;}
+
+.aboutcontainer {width: 1000px;
+                height: 700px;
+                background-color: whitesmoke;
+                margin: auto;
+                margin-top: 80px;
+                display: flex;}
+
+.aboutimg {width:500px;
+            height:700px;}
+
+.aboutimg1 {width:500px;
+            height:700px;}
+
+.aboutnote {width:500px;
+            height:700px;
+            padding: 50px;}
+
+.aboutp {margin-top: 10px;
+            color: rgb(196, 181, 181);}
+
+.faqcontainer {width: 1200px;
+                height: 450px;
+                margin: auto;}
+
+.faqheading {text-align: center;
+             margin-top: 30px;
+            padding: 20px;}
+
+.faqlist {width:1000px;
+            background-color: rgb(245, 241, 241) ;
+        display: flex;
+        margin: 20px;
+        box-sizing: border-box;
+
+    }
+
+.faqbox {background-color:RED;
+            width: 40px;}
+
+.faqdesc {margin: 10px;
+            color: green;
+        margin-left: 20px;}
+
+.faqbutton1 {border: 2px solid green;
+             background: transparent;
+             width: 250px;
+             height: 40px;
+             color: green;
+             font-weight: 600;
+             margin-left: 20px;}
+
+.faqbutton1:hover {background-color: green;
+                    color: ivory;}
+
+.testframe {width: 100%;
+            height: 350px;
+            background-image: url(testimage3.jpg);
+            background-size: cover;
+            
+            background-attachment: fixed;  
+            display: absolute;
+            box-sizing: border-box;}
+
+.testh6   {color: orange;
+            margin-left: 500px;
+            padding-top: 100px;}
+
+.testhead {margin: auto;}
+
+.testp {color: white;
+        width:800px;
+        justify-self: auto;
+        margin-left: 300px;
+        padding-top: 30px;}
+
+.blogcontainer2 {background-color: whitesmoke;
+                width: 100%;
+                height: 700px;
+                box-sizing: border-box;
+                padding: 10px;}
+
+.blogheading {text-align: center;
+                margin-top: 30px;
+                padding: 20px;}
+
+.bloggallery {background-color: transparent;
+                    margin:auto;
+                    margin-left:120px;
+                    float: left;
+                    width: 300px;
+                    height: 450px;
+                    padding: 0px;}
+
+.blogimagelist { width: 100%;
+                        height: 300px;
+                        margin: 0px;
+                        padding: 0px;}
+
+.blogh6 {color: black;
+        text-decoration: none;}
+
+.blogp {color: rgb(196, 181, 181);
+        font-family: Verdana, Geneva, Tahoma, sans-serif;}
+
+.blogdesc {background-color: white;
+    width:100%;
+    height:200px;
+    background: transparent;
+text-align: center;
+padding: 15px;}
+
+.footer {background-color: black;
+        color: white;
+    display: flex;
+    height: 50px;
+    justify-items: end;
+    justify-content: space-between;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+
+.footerh6 {margin-top: 15px;
+            margin-left: 80px;
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.footerlist {margin-top: 15px;
+    margin-right: 80px;}
+
+.footermenu {text-decoration: none;
+    list-style-type: none;
+    display:flex;
+color: white;}
+
+.footermenulist {margin-left: 30px;
+    text-decoration:none;
+    color:white;
+    padding: 10px;
+    }
